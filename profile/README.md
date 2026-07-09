@@ -1,12 +1,26 @@
-## Hi there 👋
+# Rhelma
 
-<!--
+## AI-Native Workspace Platform
 
-**Here are some ideas to get you started:**
+Rhelma is building intelligent digital workspaces where humans, AI agents, and services collaborate to create a new generation of connected experiences.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Our Vision
+
+The future of software is not only about applications.
+
+It is about intelligent environments that understand context, assist people, and help communities and organizations grow.
+
+Rhelma brings together:
+
+- 🧠 AI Agents
+- 🏢 Personal and Team Workspaces
+- 🌐 Connected Services
+- 🤝 Human Collaboration
+- 🔐 Secure Identity
+- ⚙️ Intelligent Automation
+
+---
+
+## The Rhelma Platform
